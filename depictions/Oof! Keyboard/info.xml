@@ -1,5 +1,5 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
+	<id>com.thomz.oof</id>
 	<name>Full Package</name>
 	<version>2.0.0-1</version>
 	<compatibility>
@@ -32,7 +32,7 @@
 	</screenshots>
 	<changelog>
 		<change>Second release</change>
-		<change>It has feature 1</change>
+		<change>It has feature 9999</change>
 		<change>It has feature 2</change>
 	</changelog>
 	<links>
