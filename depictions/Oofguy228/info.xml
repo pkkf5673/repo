@@ -1,6 +1,6 @@
 <package>
-	<id>com.thomz.oof</id>
-	<name>Full Package</name>
+	<id>Oofguy228</id>
+	<name>dumb</name>
 	<version>2.0.0-1</version>
 	<compatibility>
 		<firmware>
@@ -10,7 +10,7 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>hi im pkkf5673</shortDescription>
 	<descriptionlist>
 		<description>This is an package will full depictions.</description>
 		<description>It has more description lines.</description>
@@ -37,8 +37,8 @@
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
+			<name>/r/jelbrek</name>
+			<url>https://www.reddit.com/r/jelbrek</url>
 			<iconclass>fa fa-reddit</iconclass>
 		</link>
 	</links>
