@@ -26,3 +26,15 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: oof
+Name: Oof! keyboard
+Version: 1.1
+Maintainer: Thomz <thom.laffay@gmail.com>
+Author: Thomz <thom.laffay@gmail.com>
+Depends:
+Description: Replace the keyboard sounds by a good Oof!
+Section: Tweaks
+Size: 49128
+MD5sum: 17d7b554df0362f5c82cc1d7b959e5ad
+Filename: ./debs/oofguy228.deb
+Depiction: https://pkkf5673.github.io/repo/depictions/?p=Oofguy228
