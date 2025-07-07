@@ -76,7 +76,7 @@ MD5sum: aea7132dbb77bf799ed6ff1942af9c0a
 Filename: ./debs/ws.hbang.common_1.17_iphoneos-arm.deb
 Depiction: https://pkkf5673.github.io/repo/depictions/?p=cephei
 
-Package: rocketbootstrap
+Package: rocketbootstrap3
 Name: rocketbootstrap
 Version: 1.0.10~beta1
 Maintainer: rpetrich <thom.laffay@gmail.com>
