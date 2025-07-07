@@ -39,7 +39,7 @@ MD5sum: 17d7b554df0362f5c82cc1d7b959e5ad
 Filename: ./debs/oofguy228.deb
 Depiction: https://pkkf5673.github.io/repo/depictions/?p=Oofguy228
 
-Package: 
+Package: oofrestore
 Name: keyboard restore
 Version: 1.0
 Maintainer: Thomz <thom.laffay@gmail.com>
@@ -51,3 +51,16 @@ Size: 3980
 MD5sum: ea3c59950eb9cfc6239a03621496fa0b
 Filename: ./debs/keyboardrestore.deb
 Depiction: https://pkkf5673.github.io/repo/depictions/?p=keyboardrestore
+
+Package: vinessldisabler
+Name: vine ssl disabler 
+Version: 2.0-1+debug
+Maintainer: bruhdude <thom.laffay@gmail.com>
+Author: bruhdude <thom.laffay@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 6.0)
+Description: for ivy buh-bye ssl pinning... rest in piss!
+Section: Tweaks
+Size: 136
+MD5sum: 4f9d73ed35ea63a1366cd699a2e91a3a
+Filename: ./debs/vine-ssl-pinning-disabler.deb
+Depiction: https://pkkf5673.github.io/repo/depictions/?p=vinessldisabler
