@@ -32,7 +32,7 @@ Author: bruhdude <thom.laffay@gmail.com>
 Depends:
 Description: for ivy buh-bye ssl pinning... rest in piss!
 Section: Tweaks
-Size: 136
+Size: 3966
 MD5sum: 4f9d73ed35ea63a1366cd699a2e91a3a
 Filename: ./debs/vine-ssl-pinning-disabler.deb
 Depiction: https://pkkf5673.github.io/repo/depictions/?p=vinessldisabler
