@@ -89,3 +89,18 @@ MD5sum: b52417e29631c59cdb267379e71e2a69
 Filename: ./debs/com.rpetrich.rocketbootstrap_1.0.10_beta1.deb
 Depiction: https://pkkf5673.github.io/repo/depictions/?p=rocketbootstrap
 
+Package: com.rpetrich.retinapad
+Name: rocketbootstrap
+Version: 1.3.7
+Maintainer: gadzhi agayev <thom.laffay@gmail.com>
+Author: gadzhi agayev <thom.laffay@gmail.com>
+Depends: firmware (>= 4.2), com.fabius.utils (>= 0.0.1-38), cy+model.ipad | gsc.ipad | gsc.wildcat
+Depends: mobilesubstrate (>= 0.9.5001), preferenceloader (>= 2.2.2), applist (>= 1.5.7), cydia (>= 1.1.1), curl, firmware (<< 7.0) | com.rpetrich.rocketbootstrap (>= 1.0.1), firmware (<< 7.0) | libactivator (>= 1.8.3)
+Description: Description: Enable Retina Display for iPhone apps on iPad
+Section: Tweaks
+Size: 270002
+MD5sum: 0f074241808349428c78ba5560a0f07c
+Icon: ./icons/RetinaPadCydia.png
+Filename: ./debs/com.rpetrich.retinapad_1.3.7_iphoneos-arm_fabius.deb
+Depiction: http://rpetri.ch/cydia/retinapad/
+
