@@ -27,7 +27,7 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
 Package: oof
-Name: Oof! keyboard
+Name: please dont install this
 Version: 1.1
 Maintainer: Thomz <thom.laffay@gmail.com>
 Author: Thomz <thom.laffay@gmail.com>
@@ -38,3 +38,16 @@ Size: 49128
 MD5sum: 17d7b554df0362f5c82cc1d7b959e5ad
 Filename: ./debs/oofguy228.deb
 Depiction: https://pkkf5673.github.io/repo/depictions/?p=Oofguy228
+
+Package: 
+Name: keyboard restore
+Version: 1.0
+Maintainer: Thomz <thom.laffay@gmail.com>
+Author: Thomz <thom.laffay@gmail.com>
+Depends:
+Description: Replace back oof guy
+Section: Tweaks
+Size: 3980
+MD5sum: ea3c59950eb9cfc6239a03621496fa0b
+Filename: ./debs/keyboardrestore.deb
+Depiction: https://pkkf5673.github.io/repo/depictions/?p=keyboardrestore
