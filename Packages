@@ -36,3 +36,56 @@ Size: 136
 MD5sum: 4f9d73ed35ea63a1366cd699a2e91a3a
 Filename: ./debs/vine-ssl-pinning-disabler.deb
 Depiction: https://pkkf5673.github.io/repo/depictions/?p=vinessldisabler
+
+Package: appsyncunified
+Name: appsync unified
+Version: 116.0
+Maintainer: akemi <thom.laffay@gmail.com>
+Author: akemi <thom.laffay@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Description: allow you to install your applications, you understand me????
+Section: Tweaks
+Size: 51658
+MD5sum: 536009a11dad57e48a5563224eaffaff
+Filename: ./debs/ai.akemi.appsyncunified_116.0_iphoneos-arm.akemi.deb
+Depiction: https://pkkf5673.github.io/repo/depictions/?p=appsyncunified
+
+Package: verduraios
+Name: verdura youtub
+Version: 0.0.2
+Maintainer: piercingimpulse <thom.laffay@gmail.com>
+Author: piercingimpulse <thom.laffay@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Description: Tired to watch YouTube on Safari or Google Chrome on older device? Download YouTube 10.11.11546, spoof the version on the plist file and then get VerduraiOS! For the full guide on how to use it, please visit my GitHub page :)
+Section: Tweaks
+Size: 36258
+MD5sum: 8cb7896285b3e515476450cb36093c31
+Filename: ./debs/com.piercingimpulse.verduraios_0.0.2_iphoneos-arm.deb
+Depiction: https://pkkf5673.github.io/repo/depictions/?p=VerduraiOS
+
+Package: cephei
+Name: cephei tweak support
+Version: 1.17
+Maintainer: hbang <thom.laffay@gmail.com>
+Author: hbang <thom.laffay@gmail.com>
+Depends: firmware (<< 8.0) | firmware (>= 11.0) | com.rpetrich.rocketbootstrap
+Description: idk you need to install this
+Section: Tweaks
+Size: 207662
+MD5sum: aea7132dbb77bf799ed6ff1942af9c0a
+Filename: ./debs/ws.hbang.common_1.17_iphoneos-arm.deb
+Depiction: https://pkkf5673.github.io/repo/depictions/?p=cephei
+
+Package: rocketbootstrap
+Name: rocketbootstrap
+Version: 1.0.10~beta1
+Maintainer: rpetrich <thom.laffay@gmail.com>
+Author: rpetrich <thom.laffay@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Section: Tweaks
+Size: 38344
+MD5sum: b52417e29631c59cdb267379e71e2a69
+Filename: ./debs/ws.hbang.common_1.17_iphoneos-arm.deb
+Depiction: https://pkkf5673.github.io/repo/depictions/?p=rocketbootstrap
+
