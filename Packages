@@ -65,15 +65,15 @@ Depiction: https://pkkf5673.github.io/repo/depictions/?p=Verduraios
 
 Package: cephei
 Name: cephei tweak support
-Version: 1.17
+Version: 1.17.1
 Maintainer: hbang <thom.laffay@gmail.com>
 Author: hbang <thom.laffay@gmail.com>
 Depends:
 Description: idk you need to install this
 Section: Tweaks
-Size: 207662
-MD5sum: aea7132dbb77bf799ed6ff1942af9c0a
-Filename: ./debs/ws.hbang.common_1.17_iphoneos-arm.deb
+Size: 208096
+MD5sum: a1a27d51f93da4262059fe937e025f35
+Filename: ./debs/ws.hbang.common_1.17.1_iphoneos-arm.deb
 Depiction: https://pkkf5673.github.io/repo/depictions/?p=cephei
 
 Package: rocketbootstrap3
