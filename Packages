@@ -29,7 +29,7 @@ Name: vine ssl disabler
 Version: 2.0-1+debug
 Maintainer: bruhdude <thom.laffay@gmail.com>
 Author: bruhdude <thom.laffay@gmail.com>
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 6.0)
+Depends:
 Description: for ivy buh-bye ssl pinning... rest in piss!
 Section: Tweaks
 Size: 136
@@ -42,7 +42,7 @@ Name: appsync unified
 Version: 116.0
 Maintainer: akemi <thom.laffay@gmail.com>
 Author: akemi <thom.laffay@gmail.com>
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Depends:
 Description: allow you to install your applications, you understand me????
 Section: Tweaks
 Size: 51658
@@ -55,7 +55,7 @@ Name: verdura youtub
 Version: 0.0.2
 Maintainer: piercingimpulse <thom.laffay@gmail.com>
 Author: piercingimpulse <thom.laffay@gmail.com>
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Depends:
 Description: Tired to watch YouTube on Safari or Google Chrome on older device? Download YouTube 10.11.11546, spoof the version on the plist file and then get VerduraiOS! For the full guide on how to use it, please visit my GitHub page :)
 Section: Tweaks
 Size: 36258
@@ -68,7 +68,7 @@ Name: cephei tweak support
 Version: 1.17
 Maintainer: hbang <thom.laffay@gmail.com>
 Author: hbang <thom.laffay@gmail.com>
-Depends: firmware (<< 8.0) | firmware (>= 11.0) | com.rpetrich.rocketbootstrap
+Depends:
 Description: idk you need to install this
 Section: Tweaks
 Size: 207662
@@ -81,7 +81,7 @@ Name: rocketbootstrap
 Version: 1.0.10~beta1
 Maintainer: rpetrich <thom.laffay@gmail.com>
 Author: rpetrich <thom.laffay@gmail.com>
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Depends: 
 Description: Support library allowing tweaks to communicate with sandboxed processes
 Section: Tweaks
 Size: 38344
