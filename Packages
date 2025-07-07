@@ -61,7 +61,7 @@ Section: Tweaks
 Size: 36258
 MD5sum: 8cb7896285b3e515476450cb36093c31
 Filename: ./debs/com.piercingimpulse.verduraios_0.0.2_iphoneos-arm.deb
-Depiction: https://pkkf5673.github.io/repo/depictions/?p=VerduraiOS
+Depiction: https://pkkf5673.github.io/repo/depictions/?p=Verduraios
 
 Package: cephei
 Name: cephei tweak support
