@@ -37,7 +37,7 @@ MD5sum: 4f9d73ed35ea63a1366cd699a2e91a3a
 Filename: ./debs/vine-ssl-pinning-disabler.deb
 Depiction: https://pkkf5673.github.io/repo/depictions/?p=vinessldisabler
 
-Package: appsyncunified
+Package: ai.akemi.appsyncunified
 Name: appsync unified
 Version: 116.0
 Maintainer: akemi <thom.laffay@gmail.com>
@@ -89,7 +89,7 @@ MD5sum: b52417e29631c59cdb267379e71e2a69
 Filename: ./debs/com.rpetrich.rocketbootstrap_1.0.10_beta1.deb
 Depiction: https://pkkf5673.github.io/repo/depictions/?p=rocketbootstrap
 
-Package: com.rpetrich.retinapad
+Package: com.rpetrich.retib
 Name: rocketbootstrap
 Version: 1.3.7
 Maintainer: gadzhi agayev <thom.laffay@gmail.com>
