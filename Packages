@@ -117,3 +117,17 @@ Icon: ./icons/RetinaPadCydia.png
 Filename: ./debs/in.net.mario.tweak.fixappadmin_1.0.3_iphoneos-arm.deb
 Depiction: https://pkkf5673.github.io/repo/depictions/?p=fixappdmin
 
+Package: com.pkkf.whatsappfix
+Name: fckzck (whatsapp fix for ios 12)
+Version: 1.0-17+debug
+Maintainer: philips <thom.laffay@gmail.com>
+Author: philips <thom.laffay@gmail.com>
+Depends: 
+Description: fix whatsapp for ios 12
+Section: Tweaks
+Size: 10134
+MD5sum: 17cd472653a3f913a27da6f566169e74
+Icon: ./icons/RetinaPadCydia.png
+Filename: ./debs/com.ifilipis.fckzck_1.0-17+debug_iphoneos-arm.deb
+Depiction: https://pkkf5673.github.io/repo/depictions/?p=fckzck
+
