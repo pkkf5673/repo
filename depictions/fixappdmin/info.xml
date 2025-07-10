@@ -1,10 +1,10 @@
 <package>
-	<id>com.rpetrich.lox</id>
-	<name>enable retina guy in ipad</name>
-	<version>1.0</version>
+	<id>com.pkkf.fiapdmin</id>
+	<name>fix for idk pryanik app admin for ios 12.2-13.7~(not server just fix better use appstore++)</name>
+	<version>1.0.3</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>12.2</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
