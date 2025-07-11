@@ -131,3 +131,44 @@ Icon: ./icons/RetinaPadCydia.png
 Filename: ./debs/com.ifilipis.fckzck_1.0-17+debug_iphoneos-arm.deb
 Depiction: https://pkkf5673.github.io/repo/depictions/?p=fckzck
 
+Package: com.pkkf.appadmin
+Name: app admin (1.0-r102)
+Version: 1.0-r102
+Maintainer: unlimapps <thom.laffay@gmail.com>
+Author: unlimapps <thom.laffay@gmail.com>
+Depends: 
+Description: downgrade apps to older versions!
+Section: Tweaks
+Size: 863628
+MD5sum: 6d7f076eb541e5bbec3e3629f152d16d
+Icon: ./icons/RetinaPadCydia.png
+Filename: ./debs/com.unlimapps.uaupdatetools_1.0r-102_iphoneos-arm.deb
+Depiction: https://pkkf5673.github.io/repo/depictions/?p=appadmin
+
+Package: com.pkkf.appadminold
+Name: app admin (1.0-r101)
+Version: 1.0-r101
+Maintainer: unlimapps <thom.laffay@gmail.com>
+Author: unlimapps <thom.laffay@gmail.com>
+Depends: 
+Description: older version of app admin if you have problems
+Section: Tweaks
+Size: 875008
+MD5sum: 4ab9f1fc10827990402c4a3cbbdeb46a
+Icon: ./icons/RetinaPadCydia.png
+Filename: ./debs/com.unlimapps.uaupdatetools_1.0r-101_iphoneos-arm.deb
+Depiction: https://pkkf5673.github.io/repo/depictions/?p=appadminold
+
+Package: com.pkkf.appstoreplusplus
+Name: appstore++
+Version: 0.10.1-5
+Maintainer: cokepokes <thom.laffay@gmail.com>
+Author: cokepokes <thom.laffay@gmail.com>
+Depends: 
+Description: downgrade apps to their older versions!
+Section: Tweaks
+Size: 4636364
+MD5sum: 1439e142bcdec4582b9ac8bccc112e4a
+Icon: ./icons/RetinaPadCydia.png
+Filename: ./debs/com.cokepokes.appstoreplusplus_0.10.1-5_iphoneos-arm.deb
+Depiction: https://pkkf5673.github.io/repo/depictions/?p=appstoreplusplus
