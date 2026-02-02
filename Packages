@@ -37,8 +37,21 @@ MD5sum: 4f9d73ed35ea63a1366cd699a2e91a3a
 Filename: ./debs/vine-ssl-pinning-disabler.deb
 Depiction: https://pkkf5673.github.io/repo/depictions/?p=vinessldisabler
 
+Package: ai.akemi.appsyncunifiefix
+Name: Appsync unified meridian fix
+Version: 116.0
+Maintainer: akemi <thom.laffay@gmail.com>
+Author: akemi <thom.laffay@gmail.com>
+Depends:
+Description: Fix of ./ds_store error of meridian appsync
+Section: Tweaks
+Size: 51658
+MD5sum: 536009a11dad57e48a5563224eaffaff
+Filename: ./debs/ai.akemi.appsyncunified_116.0_iphoneos-armfix.deb
+Depiction: https://pkkf5673.github.io/repo/depictions/?p=appsyncunified
+
 Package: ai.akemi.appsyncunifie
-Name: appsync unified
+Name: Appsync unified
 Version: 116.0
 Maintainer: akemi <thom.laffay@gmail.com>
 Author: akemi <thom.laffay@gmail.com>
